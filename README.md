@@ -1,8 +1,11 @@
 French software engineer based in Paris, specialized in 🛡️ cyber security, with a Ph.D in cryptography and a passion for everything related to computers.
 
-Check also my website [cedricvanrompay.fr](https://cedricvanrompay.fr/) and [my GitLab profile](https://gitlab.com/cedricvanrompay).
+Check also:
+* my website [cedricvanrompay.fr](https://cedricvanrompay.fr/)
+* [my GitLab profile](https://gitlab.com/cedricvanrompay)
+* [my professional GitHub profile](https://github.com/cedricvanrompay-datadog)
 
-As part of my work I mostly use Go, Python, Bash, Kubernetes, and GitLab CI.
+As part of my work I mostly use Go, Python, Bash, Kubernetes, and GitLab CI. Most of my professional work is not open-source. One thing I made open source is https://github.com/DataDog/aggregated-dependency-score but as of May 2025 it is inactive.
 
 Most of my hobby projects are in [GitLab](https://gitlab.com/cedricvanrompay) and use HTML, CSS and JavaScript. I used to work with React, but now I use [Svelte](https://svelte.dev/) whennever I can.
 
