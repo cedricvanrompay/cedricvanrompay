@@ -1,4 +1,4 @@
-French software engineer based in Paris, specialized in 🛡️ cyber security, with a Ph.D in cryptography and a passion for everything related to computers.
+French software engineer based in Paris, specialized in 🛡️ cyber security, with a Ph.D in cryptography and a passion for everything related to computers. Working for [Datadog](https://datadoghq.com).
 
 Check also:
 * my website [cedricvanrompay.fr](https://cedricvanrompay.fr/)
